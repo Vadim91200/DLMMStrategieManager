@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.0",
+    "@meteora-ag/dlmm": "^1.4.0",
+    "@solana/web3.js": "^1.98.0",
+    "dotenv": "^16.4.7"
+  }
+}
